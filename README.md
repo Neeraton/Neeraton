@@ -1,5 +1,6 @@
-<h1 align="center">Neeraj Chaurasia</h1>
+<h1 align="center"><strong>NEERAJ CHAURASIA</strong></h1>
 <h3 align="center">Electronics & Telecommunication Engineer | AI/ML Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://github.com/Neeraton" target="_blank"><img src="https://img.shields.io/github/followers/Neeraton?label=Follow&style=social" alt="GitHub" /></a>
